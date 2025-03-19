@@ -23,13 +23,13 @@ Bem-vindo à **MRK**, a agência especializada em serviços para **Minecraft**! 
 🔹 **Produção Audiovisual**
 - Trailers cinematográficos
 - Edições de vídeo para servidores e criadores
-- Animações e motion design
 
 ## 🚀 Por que escolher a MRK?
 ✅ Equipe experiente e qualificada  
 ✅ Projetos personalizados para cada cliente  
 ✅ Atendimento rápido e suporte dedicado  
 ✅ Preços acessíveis com qualidade garantida  
+✅ Suporte vitalício em todos produtos
 
 ## 📌 Como contratar?
 É fácil! Basta entrar no nosso Discord e falar com um dos nossos atendentes:  
